@@ -1,22 +1,22 @@
 class Solution {
     public int rob(int[] nums) {
-        int[] memo = new int[nums.length+1];
-        Arrays.fill(memo,-1);
-        return robfrom(0,nums,memo);
-    }
-    
-    public int robfrom(int i, int[] nums, int[] memo){
-        if(i>=nums.length){
-            return 0;
+       if(nums.length==0 || nums==null){
+           return 0;
+       }
+        
+        int n = nums.length;
+        int[] dp = new int [n];
+        dp[0] = nums[0];
+        if(nums.length==1){
+            return dp[0];
         }
-        if(memo[i]!=-1){
-            return memo[i];
+        dp[1]=Math.max(dp[0],nums[1]);
+        
+        for(int i=2;i<n;i++){
+        dp[i] = Math.max(dp[i-1],dp[i-2]+nums[i]);
         }
         
-        int ans =  Math.max(robfrom(i+1,nums,memo),robfrom(i+2,nums,memo)+nums[i]);
-        memo[i]=ans;
-        
-        return ans;
+        return dp[n-1];
         
     }
 }
