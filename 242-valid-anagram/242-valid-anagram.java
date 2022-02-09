@@ -10,8 +10,8 @@ class Solution {
             count[t.charAt(i)-'a']--;
         }
         
-        for(int i=0;i<CHAR;i++){
-            if(count[i]!=0) return false;
+        for(int i:count){
+            if(i!=0) return false;
         }
         
         return true;
