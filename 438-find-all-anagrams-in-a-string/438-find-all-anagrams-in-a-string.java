@@ -1,5 +1,5 @@
 class Solution {
-    static final int CHAR = 256; 
+    static final int CHAR = 26; 
     public List<Integer> findAnagrams(String s, String p) {
         List<Integer> res = new ArrayList<>();
         if(s.length()<p.length()) return res;
@@ -7,8 +7,8 @@ class Solution {
         int [] countP = new int[CHAR];
         
         for(int i=0;i<p.length();i++){
-            countS[s.charAt(i)]++;
-            countP[p.charAt(i)]++;
+            countS[s.charAt(i)-'a']++;
+            countP[p.charAt(i)-'a']++;
         }
          if(areSame(countS,countP)){
                 res.add(0);
@@ -16,8 +16,8 @@ class Solution {
         
         for(int i=p.length();i<s.length();i++){
               
-            countS[s.charAt(i)]++;
-            countS[s.charAt(i-p.length())]--;
+            countS[s.charAt(i)-'a']++;
+            countS[s.charAt(i-p.length())-'a']--;
               if(areSame(countS,countP)){
                 res.add(i-p.length()+1);
             }
