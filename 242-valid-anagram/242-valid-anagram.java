@@ -1,8 +1,8 @@
 class Solution {
-    static final int CHAR = 26;
+    //static final int CHAR = 26;
     public boolean isAnagram(String s, String t) {
         if(s.length()!=t.length()) return false;
-        int[] count = new int [CHAR];
+        int[] count = new int [26];
        // int[] countT = new int [CHAR];
         
         for(int i=0;i<s.length();i++){
