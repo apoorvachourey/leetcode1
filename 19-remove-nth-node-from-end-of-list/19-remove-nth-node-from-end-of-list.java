@@ -13,9 +13,7 @@ class Solution {
         if(head==null){
             return null;
         }
-        if(n==1 && head.next==null){
-            return null;
-        }
+     
         ListNode prev = new ListNode(-1);
         ListNode start = prev;
         prev.next = head;
