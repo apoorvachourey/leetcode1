@@ -19,7 +19,7 @@ class Solution {
         prev.next = head;
         ListNode first = head;
         while(n!=0){
-            first = first==null?null:first.next;
+            first = first.next;
             n--;
         }
         ListNode sec = head;
