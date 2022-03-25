@@ -14,25 +14,22 @@ class Solution {
             return null;
         }
      
-        ListNode prev = new ListNode(-1);
-        ListNode start = prev;
-        prev.next = head;
-        ListNode first = head;
+        ListNode resultH = new ListNode(-1);
+        resultH.next=head;
+        ListNode fast = resultH;
         while(n!=0){
-            first = first.next;
+            fast=fast.next;
             n--;
         }
-        ListNode sec = head;
-        while(first!=null){
-            first = first.next;
-            prev=prev==null?null:prev.next;
-            sec = sec==null?null:sec.next;
-        }
         
-        prev.next = sec.next;
-        sec.next = null;
-            
-         return start.next;   
+        ListNode slow = resultH;
+        while(fast.next!=null){
+            slow=slow.next;
+            fast=fast.next;
+        }
+        slow.next = slow.next.next;
+        
+        return resultH.next;
         
     }
 }
