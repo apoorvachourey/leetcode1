@@ -19,7 +19,7 @@ class Solution {
     
     public boolean topologicalSort(ArrayList<ArrayList<Integer>> adj,int numCourses, int[] result){
         Queue<Integer> queue = new LinkedList<>();
-        boolean[] visited = new boolean[numCourses];
+    
         int[] indegree = new int[numCourses];
         
         for(int i=0;i<numCourses;i++){
