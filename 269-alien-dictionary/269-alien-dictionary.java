@@ -1,5 +1,5 @@
 class Solution {
-    public String alienOrder(String[] words) { List<Set<Integer>> adj = new ArrayList<>();
+    public String alienOrder(String[] words) {  List<Set<Integer>> adj = new ArrayList<>();
     for (int i = 0; i < 26; i++) {
         adj.add(new HashSet<Integer>());
     }
@@ -57,6 +57,5 @@ class Solution {
     }
     
     return sb.toString();
-                                             
 }
 }
