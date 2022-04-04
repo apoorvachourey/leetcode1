@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        if(head==null) return null;
+        
         ListNode slow = head;
         ListNode fast = head;
         int lastK = k;
