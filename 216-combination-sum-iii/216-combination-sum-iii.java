@@ -7,6 +7,9 @@ class Solution {
     }
     
     public void findCombinationSum(int k, int sum,int start,List<List<Integer>> result , List<Integer> current){
+        if(current.size()>k || sum<0){
+            return;
+        }
         if(current.size()==k && sum==0){
             result.add(new ArrayList<>(current));
             return ;
