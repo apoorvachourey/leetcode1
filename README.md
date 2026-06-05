@@ -17,18 +17,22 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | ------- |
 | [0127-word-ladder](https://github.com/apoorvachourey/leetcode1/tree/master/0127-word-ladder) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
+| [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 ## Array
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
+| [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
+| [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
+| [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +41,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
+| [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 ## Hash Function
 |  |
 | ------- |
