@@ -19,23 +19,27 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 ## Array
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +50,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 ## Hash Function
 |  |
 | ------- |
