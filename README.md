@@ -20,6 +20,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/apoorvachourey/leetcode1/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/apoorvachourey/leetcode1/tree/master/0841-keys-and-rooms) |
 | [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 ## Array
@@ -36,6 +37,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/apoorvachourey/leetcode1/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/apoorvachourey/leetcode1/tree/master/0841-keys-and-rooms) |
 | [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 ## Union-Find
@@ -64,5 +66,10 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/apoorvachourey/leetcode1/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/apoorvachourey/leetcode1/tree/master/0841-keys-and-rooms) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/apoorvachourey/leetcode1/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
