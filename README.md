@@ -10,6 +10,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0133-clone-graph](https://github.com/apoorvachourey/leetcode1/tree/master/0133-clone-graph) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0997-find-the-town-judge](https://github.com/apoorvachourey/leetcode1/tree/master/0997-find-the-town-judge) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/apoorvachourey/leetcode1/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/apoorvachourey/leetcode1/tree/master/0997-find-the-town-judge) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/apoorvachourey/leetcode1/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/apoorvachourey/leetcode1/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
@@ -48,6 +50,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/apoorvachourey/leetcode1/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/apoorvachourey/leetcode1/tree/master/0841-keys-and-rooms) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/apoorvachourey/leetcode1/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 ## Union-Find
 |  |
