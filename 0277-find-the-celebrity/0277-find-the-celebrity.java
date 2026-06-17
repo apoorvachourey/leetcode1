@@ -1,31 +1,38 @@
 /* The knows API is defined in the parent class Relation.
       boolean knows(int a, int b); */
 
-public class Solution extends Relation {
+public class Solution extends Relation {  private int numOfPeople;
+    
     public int findCelebrity(int n) {
+        numOfPeople = n;
+        int celebCandiate = 0;
         
-         int[] indegree = new int[n];
-         int[] outdegree = new int[n];
-        
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(knows(i,j)){
-                    indegree[j]++;
-                    outdegree[i]++;
-                }
-                if(knows(j,i)){
-                    indegree[i]++;
-                    outdegree[j]++;
-                }
+        for(int i=0; i<n; i++){
+            if(knows(celebCandiate, i)){
+                celebCandiate = i;
             }
         }
         
-        for(int i=0; i<n;i++){
-            if(indegree[i]==n-1 && outdegree[i]==0) {
-                return i;
-            }
+        if(isCelebrity(celebCandiate)){
+            return celebCandiate;
         }
         
         return -1;
+        
+    }
+    
+    public boolean isCelebrity(int i){
+        
+        for(int j=0; j<numOfPeople; j++){
+            if(i==j){
+                continue;
+            }
+            if(knows(i,j) || !knows(j,i)){
+                return false;
+            }
+        }
+        
+        return true;
+        
     }
 }
