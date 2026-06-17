@@ -88,6 +88,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0841-keys-and-rooms](https://github.com/apoorvachourey/leetcode1/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/apoorvachourey/leetcode1/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/apoorvachourey/leetcode1/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1791-find-center-of-star-graph](https://github.com/apoorvachourey/leetcode1/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/apoorvachourey/leetcode1/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
