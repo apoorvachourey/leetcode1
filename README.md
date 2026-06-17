@@ -14,6 +14,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/apoorvachourey/leetcode1/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/apoorvachourey/leetcode1/tree/master/0127-word-ladder) |
 ## Breadth-First Search
 |  |
