@@ -81,6 +81,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/apoorvachourey/leetcode1/tree/master/0133-clone-graph) |
+| [0277-find-the-celebrity](https://github.com/apoorvachourey/leetcode1/tree/master/0277-find-the-celebrity) |
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/apoorvachourey/leetcode1/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/apoorvachourey/leetcode1/tree/master/0841-keys-and-rooms) |
@@ -98,5 +99,10 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 ## Two Pointers
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/apoorvachourey/leetcode1/tree/master/0277-find-the-celebrity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/apoorvachourey/leetcode1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/apoorvachourey/leetcode1/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
