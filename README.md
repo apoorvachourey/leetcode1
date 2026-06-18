@@ -121,4 +121,20 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/apoorvachourey/leetcode1/tree/master/2285-maximum-total-importance-of-roads) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apoorvachourey/leetcode1/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apoorvachourey/leetcode1/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apoorvachourey/leetcode1/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apoorvachourey/leetcode1/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
