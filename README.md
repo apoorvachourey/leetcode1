@@ -39,6 +39,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/apoorvachourey/leetcode1/tree/master/0997-find-the-town-judge) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/apoorvachourey/leetcode1/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/apoorvachourey/leetcode1/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/apoorvachourey/leetcode1/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
@@ -125,6 +126,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/apoorvachourey/leetcode1/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/apoorvachourey/leetcode1/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,8 +135,17 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/apoorvachourey/leetcode1/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/apoorvachourey/leetcode1/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/apoorvachourey/leetcode1/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/apoorvachourey/leetcode1/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/apoorvachourey/leetcode1/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
