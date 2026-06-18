@@ -65,6 +65,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
+| [2285-maximum-total-importance-of-roads](https://github.com/apoorvachourey/leetcode1/tree/master/2285-maximum-total-importance-of-roads) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0997-find-the-town-judge](https://github.com/apoorvachourey/leetcode1/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/apoorvachourey/leetcode1/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/apoorvachourey/leetcode1/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/apoorvachourey/leetcode1/tree/master/2285-maximum-total-importance-of-roads) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/apoorvachourey/leetcode1/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
@@ -107,4 +109,12 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/apoorvachourey/leetcode1/tree/master/0277-find-the-celebrity) |
+## Greedy
+|  |
+| ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/apoorvachourey/leetcode1/tree/master/2285-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/apoorvachourey/leetcode1/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
