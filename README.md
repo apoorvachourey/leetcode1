@@ -22,6 +22,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0127-word-ladder](https://github.com/apoorvachourey/leetcode1/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/apoorvachourey/leetcode1/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/apoorvachourey/leetcode1/tree/master/0133-clone-graph) |
+| [0261-graph-valid-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0261-graph-valid-tree) |
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | ------- |
 | [0130-surrounded-regions](https://github.com/apoorvachourey/leetcode1/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/apoorvachourey/leetcode1/tree/master/0133-clone-graph) |
+| [0261-graph-valid-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0261-graph-valid-tree) |
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
@@ -62,6 +64,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/apoorvachourey/leetcode1/tree/master/0130-surrounded-regions) |
+| [0261-graph-valid-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
@@ -89,6 +92,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/apoorvachourey/leetcode1/tree/master/0133-clone-graph) |
+| [0261-graph-valid-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0261-graph-valid-tree) |
 | [0277-find-the-celebrity](https://github.com/apoorvachourey/leetcode1/tree/master/0277-find-the-celebrity) |
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/apoorvachourey/leetcode1/tree/master/0797-all-paths-from-source-to-target) |
