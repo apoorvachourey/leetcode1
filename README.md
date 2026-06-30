@@ -34,6 +34,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/apoorvachourey/leetcode1/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/apoorvachourey/leetcode1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/apoorvachourey/leetcode1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apoorvachourey/leetcode1/tree/master/0090-subsets-ii) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/apoorvachourey/leetcode1/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/apoorvachourey/leetcode1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/apoorvachourey/leetcode1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apoorvachourey/leetcode1/tree/master/0090-subsets-ii) |
