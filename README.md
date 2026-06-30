@@ -36,6 +36,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | ------- |
 | [0078-subsets](https://github.com/apoorvachourey/leetcode1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apoorvachourey/leetcode1/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/apoorvachourey/leetcode1/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/apoorvachourey/leetcode1/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/apoorvachourey/leetcode1/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/apoorvachourey/leetcode1/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
