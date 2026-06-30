@@ -34,6 +34,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/apoorvachourey/leetcode1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/apoorvachourey/leetcode1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apoorvachourey/leetcode1/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/apoorvachourey/leetcode1/tree/master/0118-pascals-triangle) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/apoorvachourey/leetcode1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/apoorvachourey/leetcode1/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/apoorvachourey/leetcode1/tree/master/0090-subsets-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/apoorvachourey/leetcode1/tree/master/0797-all-paths-from-source-to-target) |
