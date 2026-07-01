@@ -67,6 +67,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0226-invert-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0261-graph-valid-tree) |
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -208,4 +210,5 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0144-binary-tree-preorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
