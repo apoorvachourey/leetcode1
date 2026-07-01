@@ -25,6 +25,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0127-word-ladder](https://github.com/apoorvachourey/leetcode1/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/apoorvachourey/leetcode1/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/apoorvachourey/leetcode1/tree/master/0133-clone-graph) |
+| [0226-invert-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0261-graph-valid-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0133-clone-graph](https://github.com/apoorvachourey/leetcode1/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0261-graph-valid-tree) |
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/apoorvachourey/leetcode1/tree/master/0547-number-of-provinces) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0104-maximum-depth-of-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Stack
 |  |
@@ -201,4 +204,5 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0104-maximum-depth-of-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
