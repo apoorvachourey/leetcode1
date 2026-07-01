@@ -36,6 +36,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0841-keys-and-rooms](https://github.com/apoorvachourey/leetcode1/tree/master/0841-keys-and-rooms) |
 | [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvachourey/leetcode1/tree/master/1971-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvachourey/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/apoorvachourey/leetcode1/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/apoorvachourey/leetcode1/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvachourey/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/apoorvachourey/leetcode1/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
 |  |
@@ -86,6 +88,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 | [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apoorvachourey/leetcode1/tree/master/1971-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvachourey/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +102,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 | [1905-count-sub-islands](https://github.com/apoorvachourey/leetcode1/tree/master/1905-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvachourey/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/apoorvachourey/leetcode1/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Function
 |  |
@@ -148,6 +152,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/apoorvachourey/leetcode1/tree/master/2285-maximum-total-importance-of-roads) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvachourey/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -211,4 +216,8 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0145-binary-tree-postorder-traversal](https://github.com/apoorvachourey/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/apoorvachourey/leetcode1/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvachourey/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
