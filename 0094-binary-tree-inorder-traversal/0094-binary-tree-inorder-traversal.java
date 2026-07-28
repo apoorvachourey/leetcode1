@@ -22,12 +22,15 @@ class Solution {
         while(!stack.isEmpty() || node!=null){
             while(node!=null){
                 stack.push(node);
-                node=node.left;
+                node = node.left;
             }
-            node = stack.pop();
+            node = stack.pop(); 
             res.add(node.val);
+
             node = node.right;
+
         }
         return res;
+        
     }
 }
