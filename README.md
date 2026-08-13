@@ -40,6 +40,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorvachourey/leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/apoorvachourey/leetcode1/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/apoorvachourey/leetcode1/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/apoorvachourey/leetcode1/tree/master/0078-subsets) |
@@ -219,5 +220,6 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorvachourey/leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvachourey/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
