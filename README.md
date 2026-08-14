@@ -50,6 +50,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
+| [0941-valid-mountain-array](https://github.com/apoorvachourey/leetcode1/tree/master/0941-valid-mountain-array) |
 | [0997-find-the-town-judge](https://github.com/apoorvachourey/leetcode1/tree/master/0997-find-the-town-judge) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/apoorvachourey/leetcode1/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/apoorvachourey/leetcode1/tree/master/1823-find-the-winner-of-the-circular-game) |
