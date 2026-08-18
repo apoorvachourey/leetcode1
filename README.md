@@ -48,6 +48,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0118-pascals-triangle](https://github.com/apoorvachourey/leetcode1/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/apoorvachourey/leetcode1/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/apoorvachourey/leetcode1/tree/master/0463-island-perimeter) |
+| [0540-single-element-in-a-sorted-array](https://github.com/apoorvachourey/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
 | [0941-valid-mountain-array](https://github.com/apoorvachourey/leetcode1/tree/master/0941-valid-mountain-array) |
@@ -222,5 +223,6 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorvachourey/leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/apoorvachourey/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvachourey/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
