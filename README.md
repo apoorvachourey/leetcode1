@@ -51,6 +51,7 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | [0540-single-element-in-a-sorted-array](https://github.com/apoorvachourey/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0694-number-of-distinct-islands](https://github.com/apoorvachourey/leetcode1/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/apoorvachourey/leetcode1/tree/master/0695-max-area-of-island) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/apoorvachourey/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/apoorvachourey/leetcode1/tree/master/0941-valid-mountain-array) |
 | [0997-find-the-town-judge](https://github.com/apoorvachourey/leetcode1/tree/master/0997-find-the-town-judge) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/apoorvachourey/leetcode1/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -224,5 +225,10 @@ Collection of LeetCode questions  - Created using [LeetHub](https://github.com/Q
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apoorvachourey/leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/apoorvachourey/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/apoorvachourey/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/apoorvachourey/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/apoorvachourey/leetcode1/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
