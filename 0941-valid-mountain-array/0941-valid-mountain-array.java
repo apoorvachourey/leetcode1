@@ -1,5 +1,6 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
+        // O(N)
         int index =0;
         int n = arr.length;
         // find the peak
